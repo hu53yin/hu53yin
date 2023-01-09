@@ -18,4 +18,4 @@ Overall, I'm a highly skilled and experienced software engineer with a diverse r
 - 🌱 I’m currently learning Elixir, OTP, GraphQL
 - 👯 I’m looking to collaborate on social networking projects on the web3 platform
 - 🤔 I’m looking for help with Front-end development
-- 📫 How to reach me: Twitter @huseyingurkan LinkedIn: huseyingurkan
+- 📫 How to reach me: Twitter: [@huseyingurkan](https://twitter.com/huseyingurkan) LinkedIn: [huseyingurkan](https://www.linkedin.com/in/huseyingurkan)
