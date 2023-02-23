@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a senior software engineer with over 15 years of experience, I have a strong foundation in .NET technologies with a focus on C#. I have also mastered the use of Node.js, React with TypeScript, React Hooks and Angular.
+As a senior software engineer with over 16 years of experience, I have a strong foundation in .NET technologies with a focus on C#. I have also mastered the use of Node.js, React with TypeScript, React Hooks and Angular.
 
 I'm proficient in the use of AWS infrastructure and have experience managing applications on the platform. In addition, I have expertise in using Docker and CircleCI for continuous integration and deployment.
 
