@@ -90,10 +90,10 @@ Government-funded project combining AI, Blockchain, and IoT
 ![Following](https://img.shields.io/badge/Following-258-orange?style=for-the-badge&logo=github)
 
 **GitHub Badges:**
-🏆 **Arctic Code Vault Contributor** - Code preserved for 1000 years
-🦈 **Pull Shark** (x2) - Exceptional pull request contributions  
-⚡ **Quickdraw** - Fast issue resolution
-👥 **Pair Extraordinaire** - Collaborative development
+- 🏆 **Arctic Code Vault Contributor** - Code preserved for 1000 years
+- 🦈 **Pull Shark** (x2) - Exceptional pull request contributions  
+- ⚡ **Quickdraw** - Fast issue resolution
+- 👥 **Pair Extraordinaire** - Collaborative development
 
 </div>
 
