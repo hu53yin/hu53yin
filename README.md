@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Senior+Blockchain+Engineer;Contractor+%7C+MPC+%26+HSM+Expert;Rust+%26+Node.js+Specialist;Building+Turkey's+First+MPC+Infrastructure)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Senior+Blockchain+Engineer;Contractor+%7C+MPC+%26+HSM+Expert;Rust+%26+Node.js+Specialist)
 
 </div>
 
