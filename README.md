@@ -12,7 +12,7 @@
 
 - 🔐 **Founder of PRIVELABS LTD** - Innovation-first blockchain company
 - 💼 **Available for Contract Work** in UK/Remote
-- 🏆 **15+ years** of software engineering experience
+- 🏆 **18+ years** of software engineering experience
 - 🦀 **Rust Expert** specializing in cryptographic systems
 - 🔒 **MPC & HSM Wallet Infrastructure** specialist
 
@@ -76,7 +76,7 @@ AI-powered content management with blockchain integration
 
 ### 🏪 Retail Ecosystem for Innovate UK
 Government-funded project combining AI, Blockchain, and IoT
-- **Grant**: Innovate UK funding secured
+- **Grant**: Innovate UK funding applied
 - **Goal**: Autonomous retail experiences with social impact
 
 ---
